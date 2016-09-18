@@ -55,5 +55,6 @@ Negation is multipurpose HTML5 Bootstrap Template for agencies, freelancers, dev
   Video backgrounds
  </li>
 </ul>
+<br/>
 
 <img src="http://danielpervaiz.com/github/images/negation.png"/>
