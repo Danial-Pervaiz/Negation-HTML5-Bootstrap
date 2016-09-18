@@ -32,4 +32,28 @@ Negation is multipurpose HTML5 Bootstrap Template for agencies, freelancers, dev
   Dropdown menus
  </li> 
 </ul>
+
+<h6> Categories </h6>
+
+<ul>
+ <li>
+  One page 
+ </li>
+  <li>
+  Multi page
+ </li>
+ <li>
+  ecommerce
+ </li>
+ <li>
+  Photography
+ </li>
+ <li>
+  portfolio
+ </li>
+ <li>
+  Video backgrounds
+ </li>
+</ul>
+
 <img src="http://danielpervaiz.com/github/images/negation.png"/>
